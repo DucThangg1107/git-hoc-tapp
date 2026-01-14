@@ -12,11 +12,11 @@ Repo luu bai tap mon Lap trinh C.
 
 \- Mang 2 chieu (ma tran)
 
-\- Bai tap co ban C 
+\- Bai tap co ban C
 
 \- Bai tap Struct(quan li sinh vien)
 
-
+\- Bai tap ve con tro
 
 .......
 
