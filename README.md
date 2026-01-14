@@ -12,7 +12,11 @@ Repo luu bai tap mon Lap trinh C.
 
 \- Mang 2 chieu (ma tran)
 
-\- Bai tap co ban C
+\- Bai tap co ban C 
+
+\- Bai tap Struct(quan li sinh vien)
+
+
 
 .......
 
@@ -23,6 +27,4 @@ Repo luu bai tap mon Lap trinh C.
 \- Lop: (16DHTH02)
 
 \- MSSV: (20012501....)
-
-
 
